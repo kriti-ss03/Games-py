@@ -1,3 +1,5 @@
+# only work with main to-report, make, coins insertion--use doc
+
 from menu import Menu, MenuItem
 from coffee_maker import CoffeeMaker
 from money_machine import MoneyMachine
